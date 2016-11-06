@@ -25,7 +25,7 @@ public class GestionProdDAO {
 		}
 		return res;
 	}
-	
+	//modifier eya azzouzi
 	public int update(Produit p)
 	{
 		int res=0;
